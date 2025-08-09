@@ -79,7 +79,9 @@ In util/DBConnection.java, update your **MySQL username, password, and database 
 
 
 private static final String URL = "jdbc:mysql://localhost:3306/library_db";
+
 private static final String USER = "root";
+
 private static final String PASSWORD = "your_password";
 
 ### 4️⃣ Run the Project in IntelliJ IDEA
