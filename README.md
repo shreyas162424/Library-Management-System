@@ -112,13 +112,13 @@ http://localhost:8080/LibraryManagementSystem
 
 ### 🖼️ Sample Pages
 - **Login Page** – Librarian authentication
-- ![Login Page](https://github.com/shreyas162424/Library-Management-System/blob/main/login.png)
+ ![Login Page](https://github.com/shreyas162424/Library-Management-System/blob/main/login.png)
 
 - **Home Page** – Home Interface
-- ![Home Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Home.png)
-- 
+ ![Home Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Home.png)
+
 - **Books List Page** – Shows available books
-- ![Home Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Manage.png)
+ ![Home Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Manage.png)
 
 - **Borrow Requests Page** – Displays current borrowings
 ![Borrowed Books Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Borrow.png)
