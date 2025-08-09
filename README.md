@@ -73,7 +73,7 @@ CREATE TABLE borrow (
 );
 
 INSERT INTO librarian (username, password) VALUES ('admin', 'admin123');
-
+```
 ### 3️⃣ Configure Database Connection
 In util/DBConnection.java, update your **MySQL username, password, and database name**:
 
