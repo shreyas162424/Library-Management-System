@@ -82,48 +82,48 @@ private static final String USER = "root";
 private static final String PASSWORD = "your_password";
 ```
 ### 4️⃣ Run the Project in IntelliJ IDEA
-Open IntelliJ IDEA.
+1.Open IntelliJ IDEA.
 
-Import the project as a Maven Project.
+2.Import the project as a Maven Project.
 
-Configure Apache Tomcat in IntelliJ:
+3.Configure Apache Tomcat in IntelliJ:
 
-Go to Run → Edit Configurations → Add New Configuration → Tomcat Server.
+    - Go to Run → Edit Configurations → Add New Configuration → Tomcat Server.
 
-Set the deployment to the war file.
+    - Set the deployment to the war file.
 
-Start the server and open the browser at:
-
-
+4.Start the server and open the browser at:
+```
 http://localhost:8080/LibraryManagementSystem
+```
+### 📸 Features
+- Librarian login/logout system.
 
-###📸 Features
-Librarian login/logout system.
+- View all available books.
 
-View all available books.
+- Place borrow requests for books.
 
-Place borrow requests for books.
+- View borrowing history.
 
-View borrowing history.
+- Cancel borrowing requests.
 
-Cancel borrowing requests.
+- Simple and responsive UI with clean CSS.
 
-Simple and responsive UI with clean CSS.
 
-###🖼️ Sample Pages
-Login Page – Librarian authentication
+### 🖼️ Sample Pages
+- **Login Page** – Librarian authentication
 
-Books List Page – Shows available books
+- **Books List Page** – Shows available books
 
-Borrow Requests Page – Displays current borrowings
+- **Borrow Requests Page** – Displays current borrowings
 
-Place Borrow Page – Borrow a book by entering details
+- **Place Borrow Page** – Borrow a book by entering details
 
-###📌 Notes
-Default login:
+### 📌 Notes
+- Default login:
 
-Username: admin
+    - **Username**:``` admin```
 
-Password: admin123
+    - **Password**:``` admin123```
 
-Make sure MySQL service is running before starting the project.
+- Make sure MySQL service is running before starting the project and have added all the jar files.
