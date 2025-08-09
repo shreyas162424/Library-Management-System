@@ -112,16 +112,19 @@ http://localhost:8080/LibraryManagementSystem
 
 ### 🖼️ Sample Pages
 - **Login Page** – Librarian authentication
-- ![Login Page](https://github.com/shreyas162424/EMS/blob/main/add.png?raw=true)
+- ![Login Page](https://github.com/shreyas162424/Library-Management-System/blob/main/login.png)
 
+- **Home Page** – Home Interface
+- ![Home Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Home.png)
+- 
 - **Books List Page** – Shows available books
-- ![Book Page](https://github.com/shreyas162424/EMS/blob/main/add.png?raw=true)
+- ![Home Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Manage.png)
 
 - **Borrow Requests Page** – Displays current borrowings
-![Borrow Book Page](https://github.com/shreyas162424/EMS/blob/main/add.png?raw=true)
+![Borrowed Books Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Borrow.png)
 
 - **Place Borrow Page** – Borrow a book by entering details
-![Place Borrow Page](https://github.com/shreyas162424/EMS/blob/main/add.png?raw=true)
+![Place Borrow Page](https://github.com/shreyas162424/Library-Management-System/blob/main/Order.png)
 
 ### 📌 Notes
 - Default login:
