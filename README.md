@@ -20,7 +20,7 @@ It allows administrators to log in, view available books, and manage borrowing r
 ---
 
 ## 📂 Project Structure
-
+```
 src/
 ├── dao/ # Data Access Objects (LibrarianDAO, BookDAO, BorrowDAO)
 ├── model/ # Java Models (Librarian, Book, Borrow)
@@ -28,9 +28,8 @@ src/
 ├── util/ # DBConnection utility
 └── webapp/ # JSP pages and static resources
 
+```
 
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -77,13 +76,11 @@ INSERT INTO librarian (username, password) VALUES ('admin', 'admin123');
 ### 3️⃣ Configure Database Connection
 In util/DBConnection.java, update your **MySQL username, password, and database name**:
 
-
+```
 private static final String URL = "jdbc:mysql://localhost:3306/library_db";
-
 private static final String USER = "root";
-
 private static final String PASSWORD = "your_password";
-
+```
 ### 4️⃣ Run the Project in IntelliJ IDEA
 Open IntelliJ IDEA.
 
@@ -121,6 +118,7 @@ Books List Page – Shows available books
 Borrow Requests Page – Displays current borrowings
 
 Place Borrow Page – Borrow a book by entering details
+
 ###📌 Notes
 Default login:
 
